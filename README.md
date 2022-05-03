@@ -1,3 +1,3 @@
 ### Tecnologias Usadas:
 
-## HTML5 CSS4 e Java Script
+## HTML5 CSS5 e Java Script
